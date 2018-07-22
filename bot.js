@@ -494,4 +494,4 @@ client.on('message', message => {
 
 });
 
-client.login();  اياكككك تلعب هنا لا تحط توكنك هنا
+client.login(NDcwMzI5MjQ5NjQ4MjE0MDE5.DjVqbA.2TapblaFS9boP11nGgv3t_VFw-g);  اياكككك تلعب هنا لا تحط توكنك هنا
