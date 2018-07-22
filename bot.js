@@ -494,4 +494,4 @@ client.on('message', message => {
 
 });
 
-client.login(process.env.BOT_TOKEN);  //اياكككك تلعب هنا لا تحط توكنك هنا
+client.login(NDcwMzI5MjQ5NjQ4MjE0MDE5.DjVo-Q.H6m8uXnReSj_r4QeK5k-D0FEWRw);  اياكككك تلعب هنا لا تحط توكنك هنا
